@@ -31,7 +31,7 @@ This is the theme updater, it adds features for my Maximusbat theme fo Batocera:
 
 If you want, you can download Tool Installer to install all the features.
 Go to https://github.com/MIKCPU/Maximuxbat-installer-Batocera and
-read the instructions [https://github.com/MIKCPU/Maximuxbat-installer-Batocera/blob/main/README.md]
+read the instructions https://github.com/MIKCPU/Maximuxbat-installer/blob/main/README.md
 ```
 ITA
 ```
