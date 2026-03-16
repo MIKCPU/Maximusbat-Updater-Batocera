@@ -30,7 +30,7 @@ This is the theme updater, it adds features for my Maximusbat theme fo Batocera:
 - Installs splashscreen intro and collections and customization files.
 
 If you want, you can download Tool Installer to install all the features.
-Go to https://github.com/MIKCPU/Maximuxbat-installer-batocera and
+Go to https://github.com/MIKCPU/Maximuxbat-installer-Batocera and
 read the instructions https://github.com/MIKCPU/Maximuxbat-installer-Batocera/blob/main/README.md
 ```
 ITA
