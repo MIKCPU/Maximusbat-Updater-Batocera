@@ -19,6 +19,10 @@
 ##     ## #########   ## ##    ##  ##     ## ##     ##       ## ##     ## #########    ##    
 ##     ## ##     ##  ##   ##   ##  ##     ## ##     ## ##    ## ##     ## ##     ##    ##    
 ##     ## ##     ## ##     ## #### ##     ##  #######   ######  ########  ##     ##    ##
+
+
+                                         FOR BATOCERA
+   
 ```   
 
 '''
@@ -33,6 +37,7 @@ If you want, you can download Tool Installer to install all the features.
 Go to https://github.com/MIKCPU/Maximusbat-installer-Batocera/tree/main and
 read the instructions https://github.com/MIKCPU/Maximusbat-installer-batocera/blob/main/README.md
 ```
+
 ITA
 ```
 Questo è lo strumento di aggiornamento del tema, aggiunge le funzioni per il mio tema Maximusbat per Batocera: 
